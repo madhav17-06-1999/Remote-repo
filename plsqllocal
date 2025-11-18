@@ -1,1 +1,1 @@
-select * from local_repo_vs 
+select * from repo_vs 
