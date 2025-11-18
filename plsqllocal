@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 select * from local_vs 
+=======
+select * from repo_vs 
+>>>>>>> feature1
